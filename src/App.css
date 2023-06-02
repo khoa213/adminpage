@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #CAEAE6;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +26,15 @@
 
 .App-link {
   color: #61dafb;
+}
+.count-button {
+  width: 70px;
+  height: 40px;
+  background: blue;
+  border: none;
+  color: white;
+  font-size: 30px;
+  border-radius: 12px;
 }
 
 @keyframes App-logo-spin {
