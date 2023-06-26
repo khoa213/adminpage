@@ -64,7 +64,10 @@ export const SideBar = () => {
           <MarketIcon />
           <span className="item-text">Dashboard</span>
         </NavLink>
-        
+        <NavLink to="/product">
+          <MarketIcon />
+          <span className="item-text">Product</span>
+        </NavLink>
         <div className="sidebar-menu">PROFILE</div>
         
         <div className="sidebar-menu">Other</div>
